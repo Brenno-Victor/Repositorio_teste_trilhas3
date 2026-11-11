@@ -6,3 +6,7 @@ uva
 abacaxi
 melão
 
+cores:
+Azul
+Amarelo 
+Rosa
